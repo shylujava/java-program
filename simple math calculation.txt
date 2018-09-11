@@ -1,0 +1,15 @@
+class Main {
+  public static void main(String[] args) {
+    int a,b,c,d,e,f;
+    a=50;b=50;
+    c=a+b;
+    d=a-b;
+    e=a*b;
+    f=a/b;
+    System.out.println("the addition output is"+c);
+    System.out.println("the subtraction output is"+d);
+    System.out.println("the multi output is"+e);
+    System.out.println("the division output is"+f);
+    
+  }
+}
